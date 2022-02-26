@@ -1,11 +1,9 @@
 # zipbora-search-model
 
-**Never use this Branch!!!!!**
-
-instead use `version x.x.x` Branch to see the implementation. 
+**Never use this Branch! **
 
 
-### ✅ Deploy 
+### ✅ Deployed
 
 *`v1.0.0` : not available yet
 
