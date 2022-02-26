@@ -11,4 +11,5 @@
 
 `nightly` and `stable` are distinguished by errors. 
 
-* `nlp-trainer`
+* `nlp-trainer` : developing nlp related trainers. It is sentence based. 
+* `tabular-trainer` : developing tabular data, for example, CSV
