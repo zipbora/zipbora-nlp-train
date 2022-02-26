@@ -25,18 +25,18 @@ result = model.predict("이 집을 보라.. 얼마나 좋은가")
 Card Types 
 `<language><model><type><enum>`
 
-* Domain
+* 🗺️ Domain
   * `K`  : Korean Sentence
   * `E`  : English Setence
-  * 'I' : Image
-  * 'T' : Table Dataset
+  * `I` : Image
+  * `T` : Table Dataset
 
-* Model
+* 🤖 Model
   * `B` : Bert 
   * `R` : RNN
   * `F` : Fully Connected Layer
 
-* Type
+* 🐧 Type
   * `C`  : Classification Model
   * `G`  : Generator Model
 
