@@ -1,6 +1,6 @@
 # zipbora-search-model
 
-**Never use this Branch! **
+**Never use this Branch!**
 
 
 ### ✅ Deployed
