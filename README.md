@@ -23,7 +23,7 @@ result = model.predict("이 집을 보라.. 얼마나 좋은가")
 ## 🗂 Model Cards 
 
 Card Types 
-`<language><model><type><enum>`
+`<language> <model> <type> <number>`
 
 * 🗺️ Domain
   * `K`  : Korean Sentence
