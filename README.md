@@ -13,7 +13,7 @@ model = get_model_by_tag('KBC1')
 result = model.predict("이 집을 보라.. 얼마나 좋은가")
 
 
-model = get_model_by_tag('G1')
+model = get_model_by_tag('KBG1')
 
 # 예시 result = ['색깔', '전망', '풍경'] 
 result = model.predict("이 집을 보라.. 얼마나 좋은가")
